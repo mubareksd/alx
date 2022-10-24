@@ -1,3 +1,9 @@
 #+TITLE: ALX
 #+AUTHOR: Mubarek Seid(MSD)
 #+EMAIL: mubareksd@gmail.com
+
+[[./alx-system_engineering-devops/][ ALX System Engineering Devops]]
+[[alx-low_level_programming/][ALX Low Level Programming]]
+[[./alx-higher_level_programming/][ALX Higher Level Programming]]
+
+#+html: <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
