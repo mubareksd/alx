@@ -1,0 +1,3 @@
+#+TITLE: ALX
+#+AUTHOR: Mubarek Seid(MSD)
+#+EMAIL: mubareksd@gmail.com
