@@ -5,7 +5,4 @@
 - [[./alx-system_engineering-devops/][ALX System Engineering Devops]]
 - [[./alx-low_level_programming/][ALX Low Level Programming]]
 - [[./alx-higher_level_programming/][ALX Higher Level Programming]]
-
-** License
-
-[[https://www.gnu.org/graphics/gplv3-127x51.png]]
+- [[./concepts/][Concepts]]
